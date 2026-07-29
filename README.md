@@ -27,7 +27,7 @@ The primary objectives of this project are to:
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 | Category | Technologies |
 |-----------|--------------|
