@@ -71,7 +71,7 @@ After preprocessing and feature engineering, the final dataset contains:
 
 # Project Workflow
 
-```text
+
 Raw Dataset
       │
       ▼
