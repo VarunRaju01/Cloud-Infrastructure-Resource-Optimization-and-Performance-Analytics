@@ -65,13 +65,13 @@ After preprocessing and feature engineering, the final dataset contains:
 - **26 features**
 
 > **Note:**  
-> The complete dataset is not included in this repository because it exceeds GitHub's file size limit. A representative sample dataset is provided for demonstration purposes.
+> The complete dataset is not included in this repository because it exceeds GitHub's file size limit. A representative sample dataset is provided for demonstration purposes. The Raw dataset contains 2 million rows.
 
 ---
 
 # Project Workflow
 
-
+```text
 Raw Dataset
       │
       ▼
@@ -88,7 +88,7 @@ SQL Business Analysis
       │
       ▼
 Power BI Dashboard(On going)
-
+```
 
 # Data Cleaning
 
@@ -228,7 +228,7 @@ This project demonstrates how cloud infrastructure data can be transformed into 
 
 ---
 
-# 🔮 Future Improvements
+# Future Improvements
 
 - Develop an interactive Power BI dashboard.
 - Integrate real-time cloud monitoring data.
